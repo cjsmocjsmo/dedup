@@ -11,7 +11,7 @@ pub mod factory;
 pub mod walk_dirs;
 
 fn main() {
-    let url2 = "/media/pipi/0123-4567/png_to_jpg/".to_string();
+    let url2 = "/media/pipi/0123-4567/oldjpg_backup/".to_string();
     // let bad_image_dir = "/media/pipi/e9535df1-d952-4d78-b5d7-b82e9aa3a975/BadImages/";
     let bad_image_dir = "/media/pipi/0123-4567/BadImages/";
     let to_remove_addr ="/media/pipi/0123-4567/ToRemove/".to_string();
